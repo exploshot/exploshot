@@ -9,9 +9,9 @@
   <span>Sponsors</span> 
 </h2>
 
-<h2 style="display:flex;justify-content: space-between;">
+<h4 style="display:flex;justify-content: space-between;">
   <span>Contributors</span> 
-</h2>
+</h4>
 
 <!--
 **exploshot/exploshot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
